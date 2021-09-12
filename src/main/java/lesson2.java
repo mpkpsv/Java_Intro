@@ -13,7 +13,6 @@ public class lesson2 {
         }
     }
 
-
     public static void checkPositiveOrNegative(int a) {
         if (a >= 0) {
             System.out.println("Передано положительное число");
